@@ -17,6 +17,6 @@ server.use(router);
   
 // });
 
-server.use(cors()); 
+//server.use(cors()); 
 server.listen(port);
 
